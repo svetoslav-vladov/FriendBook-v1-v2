@@ -1,5 +1,9 @@
-# FriendBook
-**FriendBook is a new social network for side project in IT Talents Season 9 / PHP**
+# FriendBook v1 and v2
+
+## Repo is archived and projects are moved to the main repo:
+- Combined repo combining all versions [FriendBook-ALL](https://github.com/svetoslav-vladov/FriendBook-ALL)
+
+**FriendBook v1 and v2 is a new social network for side project in IT Talents Season 9 / PHP**
 - Team: Svetoslav Vladov & Eray Myumyun 2017 - 2018
 - Start date: 12/03/2018
 - We pause our FrontController-JsonDB prototype in order to finish the Main GOAL.
